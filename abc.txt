@@ -1,0 +1,14 @@
+ls
+git status
+git status
+
+
+
+
+
+clear
+
+
+
+
+$ git status
