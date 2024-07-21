@@ -1,0 +1,3 @@
+hi my name is shivam gupta so be humble with me 
+
+git status 
